@@ -130,3 +130,26 @@ SmartGenList/
 Mlu Ncube – Developer
 
 Email: ncubemlu05@gmail.com
+
+## 📸 Application Screenshots
+
+### Admin
+![Admin](Admin.png)
+
+### Admin Dashboard
+![Admin Dashboard](Admindash.png)
+
+### Info Page
+![Info](info.png)
+
+### List Page
+![List](List.png)
+
+### Login Page
+![Login](Login.png)
+
+### Preference Page
+![Preference](preference.png)
+
+### Report Page
+![Report](report.png)
